@@ -1,0 +1,27 @@
+{
+  "name": "zuri-cottages-pahalgam",
+  "version": "1.0.0",
+  "description": "Official Luxury Website for Zuri Cottage Pahalgam, Kashmir",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "serve-static": "node server.js",
+    "test": "node verify_assets.js"
+  },
+  "keywords": [
+    "zuri-cottages",
+    "pahalgam",
+    "kashmir-hotel",
+    "resort-website",
+    "nextjs"
+  ],
+  "author": "Zuri Cottage Pahalgam",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^16.3.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
